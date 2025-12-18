@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\HyemiKim\\\uAC1C\uC778 \uD3F4\uB354\\\uAC15\uC758\\25-2\\25-2 \uAC15\uC758 \uACFC\uC81C\\\uCEF4\uD4E8\uD130\uD559\uCF5C\uB85C\uD0A4\uC6C0\\visualization\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HyemiKim\\\uAC1C\uC778 \uD3F4\uB354\\\uAC15\uC758\\25-2\\25-2 \uAC15\uC758 \uACFC\uC81C\\\uCEF4\uD4E8\uD130\uD559\uCF5C\uB85C\uD0A4\uC6C0\\visualization\\dipole.vec||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dipole.vec||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HyemiKim\\\uAC1C\uC778 \uD3F4\uB354\\\uAC15\uC758\\25-2\\25-2 \uAC15\uC758 \uACFC\uC81C\\\uCEF4\uD4E8\uD130\uD559\uCF5C\uB85C\uD0A4\uC6C0\\visualization\\bnoise.vec||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bnoise.vec||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HyemiKim\\\uAC1C\uC778 \uD3F4\uB354\\\uAC15\uC758\\25-2\\25-2 \uAC15\uC758 \uACFC\uC81C\\\uCEF4\uD4E8\uD130\uD559\uCF5C\uB85C\uD0A4\uC6C0\\visualization\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HyemiKim\\\uAC1C\uC778 \uD3F4\uB354\\\uAC15\uC758\\25-2\\25-2 \uAC15\uC758 \uACFC\uC81C\\\uCEF4\uD4E8\uD130\uD559\uCF5C\uB85C\uD0A4\uC6C0\\visualization\\dipole.vec||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dipole.vec||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HyemiKim\\\uAC1C\uC778 \uD3F4\uB354\\\uAC15\uC758\\25-2\\25-2 \uAC15\uC758 \uACFC\uC81C\\\uCEF4\uD4E8\uD130\uD559\uCF5C\uB85C\uD0A4\uC6C0\\visualization\\fshader.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "bnoise.vec",
               "DocumentMoniker": "C:\\Users\\HyemiKim\\\uAC1C\uC778 \uD3F4\uB354\\\uAC15\uC758\\25-2\\25-2 \uAC15\uC758 \uACFC\uC81C\\\uCEF4\uD4E8\uD130\uD559\uCF5C\uB85C\uD0A4\uC6C0\\visualization\\bnoise.vec",
               "RelativeDocumentMoniker": "bnoise.vec",
@@ -71,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "bruno3.vec",
               "DocumentMoniker": "C:\\Users\\HyemiKim\\\uAC1C\uC778 \uD3F4\uB354\\\uAC15\uC758\\25-2\\25-2 \uAC15\uC758 \uACFC\uC81C\\\uCEF4\uD4E8\uD130\uD559\uCF5C\uB85C\uD0A4\uC6C0\\visualization\\bruno3.vec",
               "RelativeDocumentMoniker": "bruno3.vec",
@@ -79,8 +79,7 @@
               "RelativeToolTip": "bruno3.vec",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-18T05:25:40.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T05:25:40.464Z"
             },
             {
               "$type": "Document",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "fshader.frag",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-18T05:25:37.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T05:25:37.956Z"
             },
             {
               "$type": "Document",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "vshader.vert",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-18T05:25:35.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T05:25:35.11Z"
             },
             {
               "$type": "Document",
@@ -118,8 +115,7 @@
               "RelativeToolTip": "textfile.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-18T05:25:25.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T05:25:25.684Z"
             },
             {
               "$type": "Document",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "textfile.cpp",
               "ViewState": "AgIAAF0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-18T05:25:04.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T05:25:04.331Z"
             },
             {
               "$type": "Document",
@@ -144,25 +139,24 @@
               "RelativeToolTip": "main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-18T05:24:53.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T05:24:53.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "dipole.vec",
               "DocumentMoniker": "C:\\Users\\HyemiKim\\\uAC1C\uC778 \uD3F4\uB354\\\uAC15\uC758\\25-2\\25-2 \uAC15\uC758 \uACFC\uC81C\\\uCEF4\uD4E8\uD130\uD559\uCF5C\uB85C\uD0A4\uC6C0\\visualization\\dipole.vec",
               "RelativeDocumentMoniker": "dipole.vec",
               "ToolTip": "C:\\Users\\HyemiKim\\\uAC1C\uC778 \uD3F4\uB354\\\uAC15\uC758\\25-2\\25-2 \uAC15\uC758 \uACFC\uC81C\\\uCEF4\uD4E8\uD130\uD559\uCF5C\uB85C\uD0A4\uC6C0\\visualization\\dipole.vec",
               "RelativeToolTip": "dipole.vec",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-12-18T05:24:51.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CMakeLists.txt",
               "DocumentMoniker": "C:\\Users\\HyemiKim\\\uAC1C\uC778 \uD3F4\uB354\\\uAC15\uC758\\25-2\\25-2 \uAC15\uC758 \uACFC\uC81C\\\uCEF4\uD4E8\uD130\uD559\uCF5C\uB85C\uD0A4\uC6C0\\visualization\\CMakeLists.txt",
               "RelativeDocumentMoniker": "CMakeLists.txt",
@@ -170,8 +164,7 @@
               "RelativeToolTip": "CMakeLists.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-12-18T05:24:48.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T05:24:48.05Z"
             }
           ]
         }
