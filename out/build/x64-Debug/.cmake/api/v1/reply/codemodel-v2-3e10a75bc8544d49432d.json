@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16.3"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Assign_2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "assign_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-assign_2-Debug-e5e0f302cf893a8b391d.json",
+					"name" : "assign_2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/HyemiKim/\uac1c\uc778 \ud3f4\ub354/\uac15\uc758/25-2/25-2 \uac15\uc758 \uacfc\uc81c/\ucef4\ud4e8\ud130\ud559\ucf5c\ub85c\ud0a4\uc6c0/visualization/out/build/x64-Debug",
+		"source" : "C:/Users/HyemiKim/\uac1c\uc778 \ud3f4\ub354/\uac15\uc758/25-2/25-2 \uac15\uc758 \uacfc\uc81c/\ucef4\ud4e8\ud130\ud559\ucf5c\ub85c\ud0a4\uc6c0/visualization"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
